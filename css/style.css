@@ -1,0 +1,171 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* Centering */
+body {
+    margin: 0
+}
+
+header > *, main > *, footer > * {
+  margin: 0 auto;
+  max-width: 56em;
+}
+
+/* Bit of padding for main content */
+
+header, main, footer {
+    padding: 1em;
+}
+
+/* Reduce padding for very small screens */
+@media only screen and (max-device-width: 320px) {
+    header, main, footer {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+}
+
+/* Font family */
+body {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+/* Spacing */
+body {
+  line-height: 1.5;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+/* Colour and contrast */
+body {
+  color: #555;
+}
+
+body {
+  background: white;
+}
+
+header {
+    background: black;
+    color: white;
+}
+
+header a {
+    color: white;
+}  
+
+h1,
+h2,
+strong {
+  color: #333;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2, h3, h4, h5 {
+    font-size: 1em;
+}
+
+/* Balance */
+code,
+pre {
+  background: #eee;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+pre {
+  padding: 1em;
+}
+
+/* Primary colour */
+a {
+  color: #e81c4f;
+}
+
+/* Secondary colours */
+body {
+  color: #566b78;
+}
+
+code,
+pre {
+  background: #f5f7f9;
+  color: #a7adba;
+}
+
+pre {
+  border-left: 2px solid #69c;
+}
+
+/* Navigation */
+
+nav ul, footer ul {
+    padding: 0px;
+    list-style: none;
+}
+nav ul li, footer ul li {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 1em;
+    margin-top: 1em;
+}
+nav ul li:last-of-type, footer ul li:last-of-type {
+    padding-right: 0;
+}
+
+
+
+nav ul li.logo {
+    display: block;
+    margin-bottom: 1em;
+} 
+ nav ul .logo img {
+     height: 6em;
+ }
+ 
+ nav ul {
+     margin: 0;
+ }
+ 
+ /* heading 1 */
+ h1 {
+     margin-top: 0px;
+ }
+ 
+ 
+ /*Some default max sizes to prevent mobile view from stretching */
+ section img {
+   max-width: 80vw;
+ }
+ 
+ section iframe {
+   max-width: 90vw;
+ }
+
+ /* A class to hide stuff if on a touch device*/
+ pre { white-space:pre-wrap; word-wrap:break-word; overflow:auto; }
+ 
+ .touch .touch-hidden {
+     display: none;
+ }
+
+.mentor-img {
+  width: 10px;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Ardkeen CoderDojo Blob</title>
+	<link href="http://ardkeen.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://ardkeen.github.io/blog"/>
+	<updated>2017-05-18T23:57:58+01:00</updated>
+	<id>http://ardkeen.github.io/blog</id>
+	<author>
+		<name>Ardkeen CoderDojo</name>
+		<email></email>
+	</author>
+
+	
+		<entry>
+			<title>New website created</title>
+			<link href="http://ardkeen.github.io/blog/2017/05/18/New-website-created"/>
+			<updated>2017-05-18T00:00:00+01:00</updated>
+			<id>http://ardkeen.github.io/blog/2017/05/18/New website created</id>
+			<content type="html">&lt;p&gt;Welcome on our new website blog. 
+Want to share your projects on this website - sent us message on facebook.&lt;/p&gt;
+</content>
+		</entry>
+	
+
+</feed>
