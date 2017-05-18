@@ -11,8 +11,6 @@ title: Mentors
 
 [https://twitter.com/pantroken](https://twitter.com/pantroken)
 
-[https://github.com/wtrocki](https://github.com/wtrocki)
-
 ## Ricky Drohan
 ![Picture](https://avatars0.githubusercontent.com/u/5845190?v=3&s=160)
 
