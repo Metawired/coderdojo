@@ -13,12 +13,12 @@ that is required.
 ### Required laptop setup
 
 Installing scratch
-https://scratch.mit.edu/scratch2download/ 
+[https://scratch.mit.edu/scratch2download/](http://coderdojo.metawired.eu/project/starter/) 
 
 Please make sure that Scratch is installed before attending session.
 
 Getting familiar with scratch software:
-http://kata.coderdojo.com/images/6/69/Beginner_Scratch_Sushi.pdf
+[http://kata.coderdojo.com/images/6/69/Beginner_Scratch_Sushi.pdf](http://kata.coderdojo.com/images/6/69/Beginner_Scratch_Sushi.pdf)
 
 ## FAQ
 ### Is CoderDojo free? 
