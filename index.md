@@ -28,6 +28,10 @@ CoderDojo is a movement orientated around running free not-for-profit coding clu
  - Coder Dojo ticket - due to limited spaces each coder needs to have ticket for session.
  - A parent! (Very important). If you are 11 or under, your parent must stay with you during the session.
 
+#  Want to join us?
+
+See [Getting started](/project/starter) page for more details.
+
 #  What we do
 
 See [projects](/project) page for more details.

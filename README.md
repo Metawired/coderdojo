@@ -23,6 +23,9 @@ Please refer to jekyllrb documentation for more details
 Repository is configured to use Travisci for builds.
 Every change in code will trigger new build on Travis.
 
+## Repo structure
+
+
 ## License
 
 Apache Software License

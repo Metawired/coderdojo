@@ -5,6 +5,9 @@ title: Projects
 
 # {{ page.title }}
 
+- [CoderDojo Started Pack](/project/starter)  
+  Getting started with CoderDojo and Scratch software 
+
 - [Mario project](/project/mario)  
     SuperMario game (Scratch 2.0)
 
