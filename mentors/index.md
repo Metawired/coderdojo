@@ -15,3 +15,8 @@ title: Mentors
 ![Picture](https://avatars0.githubusercontent.com/u/5845190?v=3&s=160)
 
 [https://github.com/RDrohan](https://github.com/RDrohan)
+
+## Luigi Zuccarelli
+![Picture](https://avatars0.githubusercontent.com/u/12412882?v=3&s=160)
+
+[https://github.com/luigizuccarelli](https://github.com/luigizuccarelli)
