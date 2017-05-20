@@ -33,8 +33,7 @@ Best way to stay up to date is to monitor our facebook page or website.
 ### Can I join in the middle of the year?
 
 We try to make our lessons as simple as possible and adjusted to all levels.
-Joining in the middle of the year will require little bit more work to be done at home.
-We may have situations when all 
+Joining in the middle of the year may require little bit more work to be done at home.
 
 ### Do you provide laptops?
 
