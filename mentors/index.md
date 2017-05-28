@@ -20,3 +20,8 @@ title: Mentors
 ![Picture](https://avatars0.githubusercontent.com/u/5845190?v=3&s=160)
 
 [github/RDrohan](https://github.com/RDrohan)
+
+## Damien Murphy
+![Picture](https://avatars0.githubusercontent.com/u/12085451?v=3&s=160)
+
+[github/damienomurchu](https://github.com/damienomurchu)
