@@ -16,7 +16,10 @@ title: Projects
 
 - CodeAcademy HTML and JavaScript training
 
-Want to share your project? Please contact us.
+- Coolest projects preparation sessions
+  http://coolestprojects.org/registration-2017/reg-faq/
+
+Want to share your project? Please contact us
 
 
 
