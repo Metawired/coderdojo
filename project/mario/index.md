@@ -12,7 +12,7 @@ Use keyboard arrows to move.
 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/165283418/?autostart=false" frameborder="0" allowfullscreen></iframe>
     
 Link to project:
-https://scratch.mit.edu/projects/165283418
+[Scratch website](https://scratch.mit.edu/projects/165283418)
 
 ## Extending game
 
