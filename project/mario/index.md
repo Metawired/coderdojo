@@ -13,16 +13,3 @@ Use keyboard arrows to move.
     
 Link to project:
 [Scratch website](https://scratch.mit.edu/projects/165283418)
-
-## Extending game
-
-Starter project for super mario game. 
-Project contains all essential elements required to build mario game.
-
-Possible improvements:
-
-- Add logic to opponent
-- Add logic to power up item
-- Add logic for collecting points
-- Extend platform
-- Add more clouds
