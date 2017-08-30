@@ -26,15 +26,24 @@ Getting familiar with scratch software:
 Yes! CoderDojo sessions are free for everyone. 
 Sessions are presented by volounters in their free time. 
 
-### What is the age group
+### What is the age group?
 
 To learn how to code you will require basic math and reading skills.
 We welcome all kids between 9 to 16 years old. 
 
-### What you doing?
+### How to join us?
 
-See our other projects for information about past projects. 
-On our sessions we mostly build games and try to learn computer languages in fun and simple way.
+To join us please come to one of the open sessions that are happening twice a year. 
+On this sessions we present ideas and projects for next meetings.
+
+**Impportant** We require tickets to attend every session.
+Tickets are posted on our main page and facebook each time. 
+They do not need to be printed. 
+We just need them to know the numbers and notify everyone in case session will be cancelled. 
+
+### What will happen if I will skip session?
+
+We going to post materials for each session online on our website.
 
 ### Is CoderDojo this week?
 
