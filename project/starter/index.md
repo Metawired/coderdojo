@@ -23,7 +23,18 @@ Getting familiar with scratch software:
 ## FAQ
 ### Is CoderDojo free? 
 
-Yes! CoderDojo sessions are done by volounters in their free time. 
+Yes! CoderDojo sessions are free for everyone. 
+Sessions are presented by volounters in their free time. 
+
+### What is the age group
+
+To learn how to code you will require basic math and reading skills.
+We welcome all kids between 9 to 16 years old. 
+
+### What you doing?
+
+See our other projects for information about past projects. 
+On our sessions we mostly build games and try to learn computer languages in fun and simple way.
 
 ### Is CoderDojo this week?
 
@@ -33,7 +44,7 @@ Best way to stay up to date is to monitor our facebook page or website.
 ### Can I join in the middle of the year?
 
 We try to make our lessons as simple as possible and adjusted to all levels.
-Joining in the middle of the year may require little bit more work to be done at home.
+Joining in the middle of the year is possible but it will require little bit more work to be done at home.
 
 ### Do you provide laptops?
 
