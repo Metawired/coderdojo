@@ -23,9 +23,9 @@ CoderDojo is a movement orientated around running free not-for-profit coding clu
 
 #  What's required to join us:
 
- - Age from 7years to 16 years.
+ - Age from 9 to 16 years.
  - A laptop. Borrow one from someone if needs be.
- - Coder Dojo ticket - due to limited spaces each coder needs to have ticket for session.
+ - Coder Dojo ticket - due to limited spaces each coder needs to reserve seat for session.
  - A parent! (Very important). If you are 11 or under, your parent must stay with you during the session.
 
 #  Want to join us?
