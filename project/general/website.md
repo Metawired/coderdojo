@@ -5,7 +5,7 @@ title: The website project
 # {{ page.title }}
 
 Website under construction by dojo members.
-Our website is using static content generator https://jekyllrb.com
+Our website is using static content generator https://jekyllrb.com.
 We write content in Markdown language. 
 
 ### How to add content to our website
@@ -29,7 +29,7 @@ We write content in Markdown language.
 
 If you added content to sandbox you are also ready to start blogging.
 
-1. Go to https://github.com/Metawired/coderdojo/tree/master/_posts
+1. Go to [Blog section](https://github.com/Metawired/coderdojo/tree/master/_posts)
 2. Select create new file
 3. Paste content into editor
 
