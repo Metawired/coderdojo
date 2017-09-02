@@ -1,13 +1,17 @@
 ---
 layout: default
-title: Coder Academy course
+title: Javascript and HTML course
 ---
 
-# CodeAcademy course
+# Javascript and HTML course
+
+Course will start with presentations and demos.
+We going to utilize both offline and online resources.
 
 ## Requirements
 
-Account on [https://www.codecademy.com](https://www.codecademy.com)
+1. Download and install editor [Brackets](http://brackets.io/)
+1. Account on [https://www.codecademy.com](https://www.codecademy.com)
 
 > **Important** Due to limited time please create accounts before session.
 You can login using your github account.
@@ -24,5 +28,8 @@ Websites with JavaScript can interact with readers and provide better user exper
 
 [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 
+## Website assignment
 
+After finishing course coders will work on their own project
+that will be published on our website.
 
