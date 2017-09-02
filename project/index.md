@@ -5,6 +5,8 @@ title: Projects
 
 # {{ page.title }}
 
+## Introduction
+
 - [CoderDojo Started Pack](/project/general/starter)  
   Introduction to CoderDojo and general FAQ for everyone who want to join us.
 
@@ -14,22 +16,24 @@ title: Projects
 - [The website sandbox](/project/sandbox)  
   Place for everyone to collaborate and push their own content/ideas/projects.
 
-- [Scratch starter](/project/scratch/starter)  
+## First year projects
+
+- [Scratch starter 🆕](/project/scratch/starter)  
   First steps in scratch software for absolute beginners
 
 - [Mario project](/project/scratch/mario)  
   Our first year project - SuperMario game done in Scratch 2.0
 
-- [HTML and JavaScript](/project/htmljs)  
+## Second year projects
+
+- [HTML and JavaScript 🆕](/project/htmljs)  
 HTML and JavaScript trainings materials
 
-- [GameDevelopment](/project/gamedev)  
+- [GameDevelopment 🆕](/project/gamedev)  
 Contains coursers and materials for building games in JavaScript Phaser library.
 
-- Coolest projects preparation sessions
-  http://coolestprojects.org/registration-2017/reg-faq/
-
 Want to share your project? Idea? Talk with us on our chat:
+[https://gitter.im/Coderdojo-Ardkeen/Lobby](https://gitter.im/Coderdojo-Ardkeen/Lobby)
 
 
 
