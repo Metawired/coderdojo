@@ -51,6 +51,6 @@ Example game
 
 3. Load project into brackets
 
-![](https://media.giphy.com/media/l378p3uYnptPDFPYA/giphy.gif)
+![Instruction](https://media.giphy.com/media/l378p3uYnptPDFPYA/giphy.gif)
 
 You are now ready for our game session.

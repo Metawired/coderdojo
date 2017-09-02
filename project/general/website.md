@@ -12,15 +12,15 @@ We write content in Markdown language.
 
 1. Create account on github 
 
-    https://github.com/join?source=header-home
+    [https://github.com](https://github.com/join?source=header-home)
 
 2. Go to our webiste (source code). Your browser will load special section in our website where you can add your ideas etc.
 
-    https://github.com/Metawired/coderdojo/edit/master/project/index.md
+    [Our website](https://github.com/Metawired/coderdojo/edit/master/project/sandbox/index.md)
 
 3. Follow instructions in the file (add your own paragraph)
 4. Scroll down to "Commit changes" section and add title to your change
-![](https://media.giphy.com/media/l1J9CryfQ1GKMCdrO/giphy.gif)
+![Instruction](https://media.giphy.com/media/l1J9CryfQ1GKMCdrO/giphy.gif)
 5. Click on Propose file change (green button)
 5. Select "Create Pull Request" (green button)
 

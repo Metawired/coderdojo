@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coder Dojo Starter pack
+title: Coder Dojo Getting started
 ---
 # {{ page.title }}
 
