@@ -23,8 +23,8 @@ We will help you to setup everything that is required.
 - Required software installed (depending on project)
 If you are joining CoderDojo for the first see scratch introduction project
 
-> Note: Our Dojo have limited access to internet connection. 
-If you need any external materials for next session download them at home.
+> **Note**: Our Dojo have limited access to internet connection. 
+If you need any external materials for next session like images etc. download them at home.
 Our mentors have also offline versions of software we going to use.
 
 ## FAQ
