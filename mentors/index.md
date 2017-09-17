@@ -47,5 +47,7 @@ title: Mentors
       </div>
     </div>
   </div>
-  <iframe src="https://calendar.google.com/calendar/embed?src=4f5b9547sbhql99ret8skaio70%40group.calendar.google.com&ctz=Europe/Dublin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  <div class="embed-responsive embed-responsive-21by9">
+    <iframe class="embed-responsive-item" src="https://calendar.google.com/calendar/embed?src=4f5b9547sbhql99ret8skaio70%40group.calendar.google.com&ctz=Europe/Dublin" allowfullscreen></iframe>
+  </div>
 </div>

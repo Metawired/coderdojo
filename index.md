@@ -14,17 +14,17 @@ title: Home
   </div>
   <hr class="my-4">
   <div class="row">
-    <div class="col-4">
-    <div class="card bg-dark mb-0">
-      <div class="card-header lead font-weight-bold">Upcoming Event</div>
-      <div class="card-block">
-        <h4 class="card-title">CoderDojo (Open Session)</h4>
-        <p class="card-text">28th September 2017 6:30-7:30 pm</p>
-        <a href="https://www.eventbrite.com/e/coder-dojo-ardkeen-waterford-01-tickets-37368989654" class="btn btn-primary">Register Now</a>
+    <div class="col-xs-12 col-sm-4">
+      <div class="card bg-dark mb-0">
+        <div class="card-header lead font-weight-bold">Upcoming Event</div>
+        <div class="card-block">
+          <h4 class="card-title">CoderDojo (Open Session)</h4>
+          <p class="card-text">28th September 2017 6:30-7:30 pm</p>
+          <a href="https://www.eventbrite.com/e/coder-dojo-ardkeen-waterford-01-tickets-37368989654" class="btn btn-primary">Register Now</a>
+        </div>
       </div>
     </div>
-    </div>
-    <div class="col-8">
+    <div class="col-xs-12 col-sm-8">
       <ul class="list-group">
         <li class="list-group-item lead font-weight-bold">What's required to join us?</li>
         <li class="list-group-item">9-16 years old</li>

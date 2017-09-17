@@ -14,7 +14,7 @@ title: Projects
         <h5 class="mb-1">CoderDojo Starter Pack</h5>
         <small>Introduction</small>
       </div>
-      <p class="mb-1">Introduction to CoderDojo and general FAQ for everyone who want to join us.</p>
+      <p class="mb-1">Introduction to CoderDojo.</p>
     </a>
     <a href="{{site.url}}/project/general/website" class="list-group-item list-group-item-action flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between">
