@@ -44,14 +44,14 @@ title: Projects
       </div>
       <p class="mb-1">Our first year project - SuperMario game done in Scratch 2.0.</p>
     </a>
-    <a href="{{site.url}}/project/general/starter" class="list-group-item list-group-item-action flex-column align-items-start">
+    <a href="{{site.url}}/project/htmljs" class="list-group-item list-group-item-action flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between">
         <h5 class="mb-1">HTML and JavaScript 🆕</h5>
         <small>Second Year Projects</small>
       </div>
       <p class="mb-1">HTML and JavaScript training materials.</p>
     </a>
-    <a href="{{site.url}}/project/general/website" class="list-group-item list-group-item-action flex-column align-items-start">
+    <a href="{{site.url}}/project/gamedev" class="list-group-item list-group-item-action flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between">
         <h5 class="mb-1">Game Development 🆕</h5>
         <small>Second Year Projects</small>
