@@ -1,0 +1,33 @@
+---
+layout: default
+title: FAQ
+---
+<div class="jumbotron">
+  <h1 class="display-3">{{ page.title }}</h1>
+  <p class="lead">
+    We have a range of projects that will suit all levels and ages! Have a look below - you might find something you'd like! Want to share your project? Idea? Talk with us on our <a href="https://gitter.im/Coderdojo-Ardkeen/Lobby">chat</a>!
+  </p>
+  <hr class="my-4">
+  <div id="accordion" role="tablist">
+    {% for item in site.data.faq %}
+      <div class="card">
+        <div class="card-header" role="tab" id="heading{{ forloop.index }}">
+          <h5 class="mb-0">
+            <a data-toggle="collapse" href="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapse{{ forloop.index }}">
+              {{ item.q }}
+            </a>
+          </h5>
+        </div>
+        <div id="collapse{{ forloop.index }}" class="collapse {% if forloop.first == true %} show {% endif %}" role="tabpanel" aria-labelledby="heading{{ forloop.index }}" data-parent="#accordion">
+          <div class="card-block">
+            {{ item.a }}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  * We require tickets to attend every session.
+  Tickets are posted on our main page and facebook each time. 
+  They do not need to be printed. 
+  We just need them to know the numbers and notify everyone in case session will be cancelled.
+</div>
