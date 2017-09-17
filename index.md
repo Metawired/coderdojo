@@ -49,6 +49,8 @@ See [projects](/project) page for more details.
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+# Social media
+
 <div class="fb-follow" data-href="https://www.facebook.com/coderdojoardkeen/" data-layout="standard" data-size="small" data-show-faces="true"></div>
 
 <hr>
