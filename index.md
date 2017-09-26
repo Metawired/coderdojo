@@ -18,9 +18,11 @@ title: Home
       <div class="card bg-dark mb-0">
         <div class="card-header lead font-weight-bold">Upcoming Event</div>
         <div class="card-block">
-          <h4 class="card-title">CoderDojo (Open Session)</h4>
-          <p class="card-text">28th September 2017 6:30-7:30 pm</p>
-          <a href="https://www.eventbrite.com/e/coder-dojo-ardkeen-waterford-01-tickets-37368989654" class="btn btn-primary">Register Now</a>
+        {% for item in site.data.events %}
+          <h4 class="card-title">{{ item.name }}</h4>
+          <p class="card-text">{{ item.date | date_to_long_string }} {{ item.time }}</p>
+          <a href="{{ item.detail }}" class="btn btn-primary">Register Now</a>
+        {% endfor %}
         </div>
       </div>
     </div>
