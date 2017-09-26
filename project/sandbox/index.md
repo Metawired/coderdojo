@@ -1,12 +1,17 @@
 ---
 layout: default
-title: Coder Dojo Starter pack
+title: CoderDojo Ardkeen Sandbox
 ---
-# {{ page.title }}
-
+<div class="jumbotron">
+  <h1 class="display-3">{{ page.title }}</h1>
+  <p class="lead">
+    Place your content below. If you add any new text, please include a header describing it.
+  </p>
+  <hr class="my-4">
+</div>
 <!---
 Rules of sandbox.
-Place your content bellow.
+Place your content below.
 If you add new text please include header describing it.
 
 For example:

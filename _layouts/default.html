@@ -5,28 +5,81 @@
 		<meta name="viewport" content="width=device-width">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="description" content="Ardkeen CoderDojo" />
-        	<link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css">
+    <script src="/assets/js/jquery-3.2.1.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
 	</head>
 	<body>
-        <script>
-            document.documentElement.className += 
-            (("ontouchstart" in document.documentElement) ? ' touch' : ' no-touch');
-        </script>
-        <header>
-            <nav>
-                <ul>
-                    <li class="logo" aria-hidden="true"><a href="/" aria-label="Homepage"><img src="/assets/website/logo.svg" alt="Ardkeen CoderDojo Logo"/></a></li>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/project">Projects</a></li>
-                    <li><a href="/mentors">Mentors</a></li>
-                    <li><a href="/blog">Blog</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                </ul>
-            </nav>
-        </header><main><section>
-          {{ content }}
-        </section></main>
-        <footer>
-        </footer>
-	</body>
+    <script>
+      document.documentElement.className += (("ontouchstart" in document.documentElement) ? ' touch' : ' no-touch');
+    </script>
+    <header>
+      <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          <img src="/assets/website/logo.svg" width="120" height="30" class="d-inline-block align-top" alt="Ardkeen CoderDojo">
+        </a>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/project">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/mentors">Mentors</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/blog">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/contact">Contact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/faq">FAQ</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.facebook.com/coderdojoardkeen/">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <div class="container">
+      {{content}}
+      <nav class="navbar navbar-dark bg-dark">
+        <span class="navbar-text">
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+            <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"/>
+          </a> Coder Dojo Ardkeen website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons License</a>
+        </span>
+        <span class="navbar-text">
+          <div class="fb-follow" data-href="https://www.facebook.com/coderdojoardkeen/" data-layout="standard" data-size="small" data-show-faces="true"></div>
+        </span>
+      </nav>
+    </div>
+  </body>
+  <!-- FB integration-->
+  <div id="fb-root"></div>
+  <script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=403070956557717";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <script>
+    ((window.gitter = {}).chat = {}).options = {
+      room: 'Coderdojo-Ardkeen/Lobby'
+    };
+  </script>
+  <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 </html>
