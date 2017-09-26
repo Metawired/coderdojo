@@ -9,8 +9,8 @@ title: Home
     CoderDojo is a movement orientated around running free not-for-profit coding clubs and regular sessions for young people. At a CoderDojo, young people learn how to code, develop websites, apps, programs, games and more. CoderDojo also puts a strong emphasis on open source and free software, and has a strong network of members and volunteers globally.
   </p>
   <div class="btn-group" role="group" aria-label="Basic example">
-    <a class="btn btn-primary btn-lg" href="{{site.url}}/project/starter" role="button">Want To Join Us?</a>
-    <a class="btn btn-primary btn-lg" href="{{site.url}}/project" role="button">What We Do</a>
+    <a class="btn btn-primary btn-lg" href="/project/general/starter" role="button">Want To Join Us?</a>
+    <a class="btn btn-primary btn-lg" href="/project" role="button">What We Do</a>
   </div>
   <hr class="my-4">
   <div class="row">
