@@ -4,12 +4,9 @@ permalink: /blog/:year/:month/:day/:title
 paginate: 20
 paginate_path: "blog/page:num"
 encoding: utf-8
-baseurl: /
 
 gems: [jekyll-paginate]
 
 exclude:
   - Gemfile
   - Gemfile.lock
-
-
