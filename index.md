@@ -11,15 +11,8 @@ CoderDojo is a movement orientated around running free not-for-profit coding clu
 
 # Upcoming events
 
-{% for event in site.data.events %}
-## {{event.name}}
-{% if event.date != nil %}
-{{ event.date | date_to_string }} at {{ event.time }}
-{% endif %}
-{% if event.detail != nil %}
-{{ event.detail | markdownify }}
-{% endif %}
-{% endfor %}
+See our Dojo profile on CoderDojo:
+[Ardkeen@CoderDojo.com](https://zen.coderdojo.com/dojos/ie/waterford/ardkeen-waterford-bank-of-ireland)
 
 #  What's required to join us:
 
